@@ -21,3 +21,26 @@ const server = http.createServer(app);
 
 let port = process.env.PORT || 3002
 server.listen(port);
+
+העתק קוד
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class PhoneAppGUI extends JFrame {
+
+    
+
+   
+private JLabel label;
+    
+   
+private JButton button;
+
+    
+
+   
+public PhoneAppGUI() {
+        
+       
